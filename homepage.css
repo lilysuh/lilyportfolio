@@ -1,0 +1,75 @@
+body {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    font-size: medium;
+    padding: 210px 0;
+    background-color: lavenderblush
+  }
+.image {
+width: 250px;
+
+}
+.home{
+width: 100px;
+position: relative;
+position: absolute;
+top: 0;
+left: 1;
+
+}
+.cucumber {
+width: 200px;
+}
+.tennis {
+width: 200px;
+}
+.bubble {
+width: 200px;
+}
+.camera {
+width: 196.3px;
+}
+.egg {
+width: 220px;
+}
+.solar{
+width: 280px;
+} 
+.orange {
+width: 205px;
+}
+.cookie {
+width: 190px;
+}
+.golfball {
+width: 205px;
+}
+.beach{
+width: 205px;
+}
+.cd {
+width: 205px;
+}
+.knob {
+width: 180px;
+}
+.cloud {
+width: 300px;
+}
+.clear {
+width: 200px;
+}
+.rice {
+width: 300px;
+}
+.clay{
+width: 270px;
+}
+
+.women {
+  width: 400px;
+
+
+}

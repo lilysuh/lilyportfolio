@@ -1,0 +1,9 @@
+.top-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.image {
+    width: 1000px; /* Adjust this value to make the image wider */
+    height: auto; /* Maintain aspect ratio */
+}

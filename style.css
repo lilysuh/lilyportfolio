@@ -1,0 +1,14 @@
+.image {
+    width: 250px;
+
+}
+.body {
+    font-family: "neue-haas-grotesk-text", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 80px;
+            color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+}
